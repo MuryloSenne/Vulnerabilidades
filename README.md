@@ -1,1 +1,3 @@
-# Vulnerabilidades
+pip install requests beautifulsoup4
+
+
